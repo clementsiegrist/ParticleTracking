@@ -1,4 +1,4 @@
-# particle_tracking
+# Particle Tracking on biomedical images with python
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clementsiegrist/particle_tracking/blob/main/particle_tracking.ipynb)
 ## Particle Tracking, Counting and statistical elements extraction with trackpy
 
